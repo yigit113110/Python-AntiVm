@@ -4,6 +4,7 @@ Python Vm dedection program made by python 3.14, it has multiple dedection techn
 * Put the imports of your code in the first lines of antivm program (dont delete the original imports in your code tho)
 * Get B64 of your code and put it in the "program" variable AT LINE 204 (theres already example in that line if you dont know what is b64)
 **Now you dont need ur programs file anymore, this code automatically runs ur program after thinks its safe**
+  
 **Memory (RAM):** Minimum **4 GB** (The script checks if total system memory is under 4GB and exits if true).
 - **Network:** Active internet connection (performs a timeout request check).
 **[INSTALL THESE]** pyuac,sounddevice,psutil,pywin32,requests 
