@@ -1,5 +1,6 @@
 # Python-AntiVm
 Python Vm dedection program made by python 3.14, it has multiple dedection techniques (13 techniques). This program doesnt include encrypter or obfuscator this program only adds vm dedection to your code. 
+Program has a little bit trash code but it works 
 
 **USAGE, TUTORIAL [READ ALL]**
 * Put the imports of your code in the first lines of antivm program (dont delete the original imports in your code tho)
