@@ -8,6 +8,6 @@ Python Vm dedection program made by python 3.14, it has multiple dedection techn
   
 **Memory (RAM):** Minimum **4 GB** (The script checks if total system memory is under 4GB and exits if true).
 - **Network:** Active internet connection (performs a timeout request check).
-- 
+
 **[INSTALL THESE]** pyuac,sounddevice,psutil,pywin32,requests 
 
